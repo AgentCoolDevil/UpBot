@@ -1,6 +1,4 @@
 Software To Help You Create Post Automatically and Post to website Automatically
-
-
 :: Features ::
 
 Auto Download using Utorrent RSS Feed
@@ -23,10 +21,7 @@ Saving finished “post” in the text files.
 Auto Post to website (WordPress and DLE)
 Smart Filter (Remove unwanted topic name using it. Eg. HDRip,DVDRip)
 Much More Features…….
-
-
 :: Supported Image Hosts ::
-
 
 FastPic
 Image4us
@@ -41,10 +36,7 @@ PimpandHost
 Pixroute
 PostImage
 To Add More Imagehost (You Can Request Me)
-
-
 :: Supported File Hosts ::
-
 
 AusFile
 BirdLoad
@@ -75,10 +67,7 @@ UploadRocket
 Uploaded
 UptoBox
 To Add More Filehost (You Can Request Me)
-
-
 :: Requirements ::
-
 
 Static IP Address Only (Dynamic Address is not Accepted).
 NET Framework 4.5 or higher.
